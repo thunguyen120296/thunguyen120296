@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm a Full-Stack Developer 👋
 
-<!--
-**thunguyen120296/thunguyen120296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build, maintain, and improve web applications, with a focus on practical problem-solving and reliable software.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack development across backend APIs and frontend applications
+- Interested in debugging, API integration, and improving existing systems
+- Focused on understanding the problem before changing the code
+- Continuously learning about software architecture, testing, and system design
+
+## Technical Skills
+
+- **Backend:** PHP, Laravel, Symfony, Node.js
+- **Frontend:** React, JavaScript
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, REST APIs
+
+## Featured Projects
+
+Portfolio projects are currently in progress. I will add documented projects with working demos and clear setup instructions here.
+
+## What I Value
+
+- Understanding the existing workflow before making changes
+- Keeping changes focused and testable
+- Writing clear documentation
+- Solving the underlying problem instead of only treating symptoms
